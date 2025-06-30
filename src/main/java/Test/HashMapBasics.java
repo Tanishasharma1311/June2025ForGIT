@@ -18,7 +18,7 @@ public class HashMapBasics {
 		int key = 20;
 		String value = "Banana";
 		Map<Integer, String> map = new HashMap<Integer, String>();
-		map.put(1, "Apple");
+		map.put(1, "Applee");
 		map.put(key, value);
 		map.put(14, "Coconut");
 		map.put(37, "Lychee");
