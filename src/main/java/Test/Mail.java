@@ -6,6 +6,6 @@ public class Mail {
 
 	public void sendMail(){
 
-    system.out.println("mail sent");
+    System.out.println("mail sent");
 	
 }
