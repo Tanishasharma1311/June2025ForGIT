@@ -9,3 +9,4 @@ public class Mail {
     System.out.println("mail sent");
 	
 }
+}
